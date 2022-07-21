@@ -29,7 +29,7 @@ int main()
 	cout << "2-2=" << 2 - 2 << endl;
 	cout << "2*2=" << 2 * 2 << endl;
 	cout << "2/2=" << 2 / 2 << endl;
-	cout << "2%2=" << 2 % 2 << endl;
+	cout << "2%2=" << 2 % 2 << "\n" << endl;
 
 	//Wait for Input
 	getchar();
