@@ -45,25 +45,6 @@ int main()
 	cout << "Your name is: " << name << " and your age is: " << age << "\n" << endl;
 
 
-	//Wait for Input
-	system("Pause");
-
-	cout << "This is a calculator where you can add two numbers.\n" << endl;
-
-	float nOne;
-	float nTwo;
-	string Op;
-
-	cout << "Please define your first number: " << endl;
-	cin >> nOne;
-
-	cout << "\nPlease define your second number: " << endl;
-	cin >> nTwo;
-
-	//cout << "\nPlease define your operator: " << endl;
-	//cin >> Op;
-
-	cout << "Result: " << nOne + nTwo << endl;
 
 	//--------------
 	system("Pause");
